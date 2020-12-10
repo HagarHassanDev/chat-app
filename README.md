@@ -1,3 +1,9 @@
+#Live Demo deployed to Heroku 
+https://hagar-chat-app.herokuapp.com/
+
+#note for google sign in auth. go to your Firebase console and under 'Sign-in method', on the 'Authorized domains' tab, add your Heroku app domain.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
